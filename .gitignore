@@ -1,0 +1,5 @@
+__pycache__
+*.exe
+*.sqlite3
+env
+requirements-test.txt
